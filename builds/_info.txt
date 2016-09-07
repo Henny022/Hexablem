@@ -1,1 +1,14 @@
-Hier die Kompilierten apk Dateien rein, mit Versionsnummer
+Hier die Kompilierten apk Dateien rein, mit Versionsnummer.
+Lass ruhig alte Versionen drin.
+
+Versionsbezeichnungen:
+  a.b.c-xxx(-alpha/beta)
+  a = 1 bei Release des Spiels, weiter erhöhen bei großen Änderungen.
+  b ändern, wenn neue Features hinzugefügt wurden
+  c änderen, bei kleineren Änderungen oder Bugfixes
+  
+  wenn du nur wirklich kleine Sachen geändert hast, die nicht wirklich ins Spiel eingreifen, z.B. Fixes von Bugs, die nicht sehr gravierend sind, kannst du xxx benutzen.
+  
+  alpha/beta kannst du nutzen, wenn du nen Release raushaust, mit Features, die noch nicht ganz fertig sind.
+  
+Ich hoffe, ich habe das mit der Versionsbezeichnung halbwegs hinbekommen
